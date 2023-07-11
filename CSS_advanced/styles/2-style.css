@@ -8,9 +8,9 @@ a {
 .visually-hidden {
   display: none;
 }
-.card {
+.card-category {
   color: #d73953;
 }
-.section {
+.section-tagline {
   color: #d73953;
 }
