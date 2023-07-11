@@ -25,6 +25,9 @@ h6 {
 .visually-hidden {
   display: none;
 }
+.card-category {
+  color: var(--color-primary);
+}
 .section-header {
   text-align: var(--section-header-align);
 }
@@ -35,7 +38,6 @@ h6 {
   margin: var(--section-title-margin);
   color: var(--section-title-color);
 }
-.card-category,
 .section-tagline {
   color: var(--color-primary);
   font-family: var(--font-family-title);
