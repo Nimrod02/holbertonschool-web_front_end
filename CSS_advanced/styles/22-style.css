@@ -483,6 +483,17 @@ ul.row {
   background-color: var(--color-black);
 }
 
+.footer-link {
+  color: (var(--text-color));
+}
+
+.social-link {
+  display: block;
+}
+
+.social-link > svg {
+  fill: var(--text-color);
+}
 :root {
   --color-primary: #d73953;
   --color-black: #090909;
